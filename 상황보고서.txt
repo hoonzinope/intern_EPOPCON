@@ -10,8 +10,8 @@
 1-1. 지점 리스트 생성 ->
  
 상황)
-company table .co_name 을 이용 모든 co_name을 띄어쓰기 단위 조각 낸뒤
-나온 단어수 count =>brand table 생성
+company table .co_name 을 이용 모든 co_name을 띄어쓰기 단위로 조각 낸 뒤
+나온 단어 수를 count =>brand table 생성
 brand table에서 '~점'으로 끝나는 모든 단어 가져온다.
  
 why? 지점 리스트 생성하기 위해
